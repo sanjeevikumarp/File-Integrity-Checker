@@ -16,6 +16,9 @@ output:
 https://github.com/user-attachments/assets/c4c3875f-65e7-4d81-99eb-5fa3203bcf49)
 import os import time import sys import hashlib
 
+![image](https://github.com/user-attachments/assets/30e16438-ea40-4a00-9cc6-a30431325ade)
+
+
 
 """ Advanced File Integrity Checker using SHA-256
 
